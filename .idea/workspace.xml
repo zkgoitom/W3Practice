@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4b670473-9726-4756-91c8-5e9f41fcde80" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecursionTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecursionTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimitiveDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimitiveDataTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +41,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RecursionTwo">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.PrimitiveDataTypes">
+    <configuration name="PrimitiveDataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitiveDataTypes" />
       <module name="W3Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,12 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables" />
+      <module name="W3Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimitiveDataTypes" />
+        <item itemvalue="Application.Variables" />
         <item itemvalue="Application.RecursionTwo" />
         <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.Print" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

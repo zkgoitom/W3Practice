@@ -3,7 +3,9 @@
     // non-primitive data types: String, Array, Classes
 
 // primitive data type specifies the size and type of variable values and has no additional methods
-// non-primitive data types are also known as reference types. They are based of a class and hold operations
+// non-primitive data types are also known as reference types. They are reference because they refer to an object.
+// Reference Types have classes with operations that you can leverage to manipulate the value of the variable.
+        // these include methods like length() for Strings as well as Arrays and also Arrays.Sort() for Arrays
 // in the form of methods and variables that you can use to manipulate the defined data
 
 // Primitive Data types have integer types and floating point types
@@ -31,6 +33,7 @@ public class PrimitiveDataTypes {
         // value ends with d. more precise than a float bc it can contain more decimal points. so it is safer for calculations
         double doubler = 6.12345678912345d;
         System.out.println("\n doubles can store fractional numbers up to 15 decimal digits like this: " + doubler);
+        // commonly used for conditional testing (if-else statements, switches)
         boolean booleans = true;
         System.out.println("\n booleans store false or " + booleans + " values");
         char character = 'c';
@@ -48,8 +51,11 @@ public class PrimitiveDataTypes {
         double powerOfDouble = 12E4d;
         System.out.println("\n doubles can use exponents in their values to by using \'E\' before the exponent." +
                 " This value was made by using to the power of 3: " + powerOfDouble);
-
-
+        // you can use ASCII values to display certain characters. multiple variables can be declared on the same line separated by a comma
+        // https://www.w3schools.com/charsets/ref_html_ascii.asp
+        char myVar1 = 65, myVar2= 66, myVar3 = 67;
+        System.out.println("\n you can use ASCII values to display certain characters like: " +
+                " 65: " + myVar1 + " 66: " + myVar2 + " 67: " + myVar3);
 
 
 
