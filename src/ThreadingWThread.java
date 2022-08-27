@@ -12,6 +12,9 @@ public class ThreadingWThread extends Thread {
                                 // 2) the other thread which executes its run method
 
 
+        System.out.println("This code is outside of a thread");
+
+
     }
     // overriding the run method inherited from Thread and customized with our own body
     public void run() {
