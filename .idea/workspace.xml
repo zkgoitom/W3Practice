@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b670473-9726-4756-91c8-5e9f41fcde80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Breaks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Breaks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Breaks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContinueStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContinueStatements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +41,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Breaks">
+  <component name="RunManager" selected="Application.ContinueStatements">
     <configuration name="Breaks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Breaks" />
+      <module name="W3Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinueStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContinueStatements" />
       <module name="W3Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,13 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchStatements" />
-      <module name="W3Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WhileLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WhileLoops" />
       <module name="W3Practice" />
@@ -78,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContinueStatements" />
         <item itemvalue="Application.Breaks" />
         <item itemvalue="Application.ForEachLoops" />
         <item itemvalue="Application.ForLoops" />
         <item itemvalue="Application.WhileLoops" />
-        <item itemvalue="Application.SwitchStatements" />
       </list>
     </recent_temporary>
   </component>
