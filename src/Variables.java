@@ -1,6 +1,6 @@
 // variables are temporary placeholders for values
 // in Java, there are different types of variables. the type of the variable must be declared before the variable name
-// types include String, int, float, char, boolean
+// types include String, int, float, char, boolean, etc.
 public class Variables {
     public static void main (String [] args) {
         String s = "String";

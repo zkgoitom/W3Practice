@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b670473-9726-4756-91c8-5e9f41fcde80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaMath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TypeCasting">
+  <component name="RunManager" selected="Application.JavaMath">
+    <configuration name="JavaMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaMath" />
+      <module name="W3Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimitiveDataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimitiveDataTypes" />
       <module name="W3Practice" />
@@ -48,15 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion" />
-      <module name="W3Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecursionTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursionTwo" />
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings" />
       <module name="W3Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaMath" />
+        <item itemvalue="Application.Strings" />
         <item itemvalue="Application.TypeCasting" />
         <item itemvalue="Application.PrimitiveDataTypes" />
         <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.RecursionTwo" />
-        <item itemvalue="Application.Recursion" />
       </list>
     </recent_temporary>
   </component>
