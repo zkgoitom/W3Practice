@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b670473-9726-4756-91c8-5e9f41fcde80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClassAttributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,9 +40,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ClassAttributes">
+  <component name="RunManager" selected="Application.ClassMethods">
     <configuration name="ClassAttributes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClassAttributes" />
+      <module name="W3Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassMethods" />
       <module name="W3Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,20 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodParameters" />
-      <module name="W3Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassMethods" />
         <item itemvalue="Application.ClassAttributes" />
         <item itemvalue="Application.LambdaExpressions" />
         <item itemvalue="Application.JavaScope" />
         <item itemvalue="Application.MethodOverloading" />
-        <item itemvalue="Application.MethodParameters" />
       </list>
     </recent_temporary>
   </component>
