@@ -21,17 +21,17 @@ public class LambdaExpressions {
         num.add(1);
 
 
-        // forEach() is a method of ArrayList. the lambda expression is used in the forEach method to print every element in the list
+        // forEach() is a method of JavaArrayLists. the lambda expression is used in the forEach method to print every element in the list
         num.forEach( (n) -> { System.out.println(n); } ); // lambda expressions are usually passed as parameters to a function.
                                                             // as seen in this example, the lambda expression passed to the ForEach() method's parameter by going into forEach()'s parentheses
 
         System.out.println("\n");
-        Collections.sort(num); // sorting the elements of the ArrayList in ascending order. before sorting, ArrayList elements retain the order, that they were inserted (added) into the list
+        Collections.sort(num); // sorting the elements of the JavaArrayLists in ascending order. before sorting, JavaArrayLists elements retain the order, that they were inserted (added) into the list
         num.forEach( (n) -> {
             System.out.print(n); } );
 
         System.out.println("\n");
-        Collections.sort(num, Collections.reverseOrder()); // reverse sorting the order of the elements in the ArrayList
+        Collections.sort(num, Collections.reverseOrder()); // reverse sorting the order of the elements in the JavaArrayLists
         num.forEach( (n) -> {   // using a lambda expression in the ArrayLists's forEach() to print every element in the list
             System.out.print(n);
         });
