@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b670473-9726-4756-91c8-5e9f41fcde80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaEnums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,9 +16,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -42,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Access">
+  <component name="RunManager" selected="Application.UserInput">
     <configuration name="Access" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Access" />
       <module name="W3Practice" />
@@ -71,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inheritor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritor" />
+    <configuration name="UserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserInput" />
       <module name="W3Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserInput" />
         <item itemvalue="Application.Access" />
         <item itemvalue="Application.Compete" />
         <item itemvalue="Application.Go" />
         <item itemvalue="Application.Driver" />
-        <item itemvalue="Application.Inheritor" />
       </list>
     </recent_temporary>
   </component>
