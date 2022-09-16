@@ -44,24 +44,5 @@ Regular Expression patterns:
     > [^abc] - find once character NOT between the brackets
     > [0-9] - find one character from the range 0 to 9
 
-Metacharacters:
--> characters w a special meaning
-    > | - find a match for any one of the patterns separated  by | as in: cat|dog|fish
-    > . - find just one instance of any character
-    > ^ - finds a match at the beginning of a string as in: ^Hello
-    > $ - finds a match at the end of the string as in: World$
-    > \d - find a digit
-    > \s - find a whitespace character
-    > \b - find a match at the beginning of a word like this: \bWORD, or at the end of a word like this: WORD\b
-    > \uxxxx - find the Unicode character specified by the hexadecimal number xxxx
-
-Quantifiers:
--> define quantities
-    > n+ - matches any string that contains at least one n
-    > n* - matches any string that contains zero or more occurrences of n
-    > n? - matches any string that contains zero or one occurrences of n
-    > n{x} - matches any string that contains a sequence of X n's
-    > n{x,y} - matches any string that contains a sequence of X to Y n's
-    > n{x,} matches any string that contains a sequence of at least X n's
 
  */
