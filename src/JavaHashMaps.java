@@ -12,6 +12,8 @@ public class JavaHashMaps {
         cities.put("Washington", "D.C.");
         cities.put("London", "England");
         cities.put("Berlin", "Germany");
+        // HashMaps do not retain an order
+        System.out.println(cities);
 
         // to access a value, use the get() method and refer to its key
         System.out.println(cities.get("Seattle")); //Seattle is the key for Washington
@@ -43,16 +45,28 @@ public class JavaHashMaps {
 
         System.out.println("\n");
 
-        HashMap<Integer, String> goats = new HashMap<>(); // do we not need to write the type in the constructor?
+        HashMap<Integer, String> goats = new HashMap<Integer, String>(); // do we not need to write the type in the constructor?
         goats.put(1, "Mike");
         goats.put(2, "Lebron");
         goats.put(3, "Kareem");
         goats.put(4, "Magic");
         goats.put(5, "Kobe");
 
+        // strange bc this HashMap does retain an order. It seems to retain the order of the Integer
+        System.out.println(goats);
+
         for(Integer i : goats.keySet()) {
             System.out.println("rank: " + i + " name: " + goats.get(i)); // 'i' to get the key. Then use the key 'i' with get() to retrieve the value
         }
+
+        HashMap<Integer, String> goats1 = new HashMap<Integer, String>();
+
+        goats1.put(3, "Larry");
+        goats1.put(2, "Hakeem");
+        goats1.put(1, "Shq");
+        goats1.put(4, "Steph");
+        // theory tested and proves true, at least in this usage case. HashMaps follow the ascending order of Integer keys, but not for String keys (alphabetically)
+        System.out.println(goats1);
 
     }
 }
