@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b670473-9726-4756-91c8-5e9f41fcde80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaCreateFiles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaAddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaAddNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +42,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.JavaCreateFiles">
-    <configuration name="JavaCreateFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaCreateFiles" />
+  <component name="RunManager" selected="Application.JavaAddNumbers">
+    <configuration name="JavaAddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAddNumbers" />
       <module name="W3Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -52,6 +52,13 @@
     </configuration>
     <configuration name="JavaExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaExceptions" />
+      <module name="W3Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFiles" />
       <module name="W3Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,20 +78,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegularExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RegularExpressions" />
-      <module name="W3Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaCreateFiles" />
+        <item itemvalue="Application.JavaAddNumbers" />
+        <item itemvalue="Application.JavaFiles" />
         <item itemvalue="Application.JavaHashSets" />
         <item itemvalue="Application.JavaHashMaps" />
         <item itemvalue="Application.JavaExceptions" />
-        <item itemvalue="Application.RegularExpressions" />
       </list>
     </recent_temporary>
   </component>
