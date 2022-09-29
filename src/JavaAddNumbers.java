@@ -4,11 +4,17 @@ public class JavaAddNumbers {
     static int x = 5;
     static int y = 10;
     static int z = y + x;
+    int h = 1;
+    int i = 2;
+    int j = h + i;
 
     public static void main(String [] args) {
-        // variables had to be static to access/use/execute in main()
+        // variables had to be static to access/use/execute in main() unless you used an object to access them
         // "non-static variable cannot be referenced from static context
         System.out.println(z);
+
+        JavaAddNumbers addNumbers =  new JavaAddNumbers(); // create object
+        System.out.println(addNumbers.j); // used object of JavaAddNumber class to access non-static attributes
 
         // add 2 numbers with user input
 
